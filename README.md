@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 I am a passionate Computer Engineering student with a strong interest in Full Stack Web Development and Cloud Computing. <br>I enjoy building real-world projects using modern technologies, improving my problem-solving skills, and learning new tools. <br>I am continuously exploring backend systems, databases, and cloud platforms to grow as a software developer.<br>
 
 
