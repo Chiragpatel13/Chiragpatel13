@@ -12,7 +12,14 @@ I am a passionate Computer Engineering student with a strong interest in Full St
 ![](https://nirzak-streak-stats.vercel.app/?user=Chiragpatel13&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiragpatel13&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![Chirag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chiragpatel13&show_icons=true&theme=dark)
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Chiragpatel13&show_icons=true&theme=dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chiragpatel13&theme=dark)
+
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Chiragpatel13&layout=compact&theme=dark)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Chiragpatel13&icon=0&color=0)](https://visitcount.itsvg.in)
